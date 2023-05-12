@@ -1,0 +1,7 @@
+
+div {
+    background-image: url("jojo.jpg");
+    background-size:cover;
+    background-attachment: scroll;
+}
+.solid {border-style:solid;}
